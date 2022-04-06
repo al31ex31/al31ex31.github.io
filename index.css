@@ -1,0 +1,16 @@
+.cabecera {
+  font-family: "Carrois Gothic SC", sans-serif;
+  display: flex;
+  justify-content: center;
+  border: 2px solid black;
+  font-size: medium;
+  background-image: ;
+  height: 300px;
+}
+
+.contenedor-principal {
+}
+
+body {
+  margin: 0%;
+}
